@@ -1,0 +1,21 @@
+# Project exclude paths
+/.gradle/
+/Simple Chatty Bot (Java)/task/build/
+/Simple Chatty Bot (Java)/task/out/
+/Simple Chatty Bot (Java)/task/out/production/classes/
+/Topics/Conditional statement/Interval/out/
+/Topics/Conditional statement/Interval/out/production/classes/
+/Topics/Integer types and operations/Desks/out/
+/Topics/Integer types and operations/Desks/out/production/classes/
+/Topics/Integer types and operations/How many nuts each squirrel will get/out/
+/Topics/Integer types and operations/How many nuts each squirrel will get/out/production/classes/
+/Topics/Overview of the basic program/Cats are robots/out/
+/Topics/Overview of the basic program/Cats are robots/out/production/classes/
+/Topics/Printing data/Printing a magic letter/out/
+/Topics/Printing data/Printing a magic letter/out/production/classes/
+/Topics/Relational operators/Is between/out/
+/Topics/Relational operators/Is between/out/production/classes/
+/Topics/Scanning the input/Hiring a chef/out/
+/Topics/Scanning the input/Hiring a chef/out/production/classes/
+/Topics/String/Check burgs/out/
+/Topics/String/Check burgs/out/production/classes/
